@@ -4,3 +4,6 @@
 ![Travis](https://img.shields.io/travis/com/Antoch03/python_cov?logo=travis&style=flat-square)
 ![Travis](https://travis-ci.org/Antoch03/python_cov)
 [![Build Status](https://travis-ci.org/Antoch03/python_cov.svg?branch=master)]
+
+
+[![Build Status](https://img.shields.io/travis/dmlc/xgboost.svg?label=build&logo=travis&branch=master)](https://travis-ci.org/Antoch03/python_cov)
