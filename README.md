@@ -39,6 +39,14 @@ seaborn: statistical data visualization
 [![License](https://img.shields.io/pypi/l/seaborn.svg)](https://github.com/mwaskom/seaborn/blob/master/LICENSE)
 [![PyPI Version](https://img.shields.io/pypi/v/seaborn.svg)](https://pypi.org/project/seaborn/)
 
+
+
+|LGTM|_
+
+.. |LGTM| image:: https://img.shields.io/lgtm/grade/python/g/matplotlib/matplotlib.svg?logo=lgtm&logoWidth=18
+.. _LGTM: https://lgtm.com/projects/g/matplotlib/matplotlib
+
+
 Documentation
 -------------
 
